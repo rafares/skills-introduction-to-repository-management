@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @rafares
+/src/backend/database.py      @rafares
+/src/backend/routers/auth.py  @rafares
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @rafares
